@@ -1,0 +1,10 @@
+.genId{
+    text-align: center;
+    background-color: bisque;
+    color: rgb(68, 212, 244);
+    border: 1px royalblue;
+    border-radius: 25px;
+    margin: 150px;
+    margin-top: 50px;
+    padding: 20px;
+}
