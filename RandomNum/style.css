@@ -1,0 +1,13 @@
+#myBtn{
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: darkcyan;
+}
+.labels {
+    margin: 20px;
+   
+}
