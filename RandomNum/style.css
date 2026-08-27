@@ -1,13 +1,32 @@
 #myBtn{
     font-weight: bold;
+    display: block;
     font-size: 1.5em;
     padding: 10px;
-    margin: 20px;
+    margin: 25px auto;
     border-radius: 20px;
     color: aliceblue;
     background-color: darkcyan;
+
 }
 .labels {
-    margin: 20px;
-   
+   text-align: center;
+   font-size: 2em;
+   font-weight: bolder;
+   font-family: monospace;
+}
+#label1 {
+    background-color: rgb(86, 230, 127);
+    padding: 10px;
+    border-radius: 15px;  
+}
+#label2 {
+    background-color: rgb(222, 128, 12);
+    padding: 10px;
+    border-radius: 15px;  
+}
+#label3 {
+    background-color: rgb(240, 32, 32);
+    padding: 10px;
+    border-radius: 15px;  
 }
